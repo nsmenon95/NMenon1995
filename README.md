@@ -13,8 +13,6 @@ Coding: I enjoy playing with Python, HTML, CSS, and JS.
 📁 Some of my "Learning" Projects
 📖 Bhagavad Gita Viewer: A full-stack project (FE + BE) deployed on Vercel. (Currently under maintenance/refactoring! 🔧)
 
-🏥 Hospital Appointment Prototype: A dummy site built to explore AI-assisted coding and UI layout.
-
 🧮 Basic Calculator: One of my first steps into JS logic.
 
 🚀 What's next?
