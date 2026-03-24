@@ -1,23 +1,25 @@
 Hi, I'm Nidheesh! 👋
-I am an Electronics Engineer and Technical Operations specialist currently exploring the world of e-commerce and AI-driven development. I’m a fan of solving problems, whether they are in a software server, or a business workflow.
+I’m an Electronics Engineer and Technical Operations specialist currently transitioning into Frontend Development. I love solving problems, whether they are in complex hardware systems or modern web workflows.
 
-🛠 What I’ve done
-Electronics & Service Engineering: My background is in hardware logic and troubleshooting.
+🛠 What I bring to the table:
+Engineering Mindset: 5+ years of experience in hardware diagnostics and service engineering (Siemens). I approach code with the same discipline I used to manage industrial systems.
 
-Software Support: Worked with the team at TNC LLC (Dubai) supporting QuickBooks users across the Middle East, Africa, and India. 🌍
+Software & Operations: Worked with the team at TNC LLC (Dubai) supporting enterprise software (QuickBooks) across the Middle East, Africa, and India.
 
-Operations: Managed job cards, data recording, and team coordination in industrial paint-shop environments. 🏗️
+Technical Stack: Currently focused on Python, HTML, CSS, and JavaScript. I enjoy building logical, responsive web experiences.
 
-Coding: I enjoy playing with Python, HTML, CSS, and JS.
+📁 Projects & Learning:
+Bhagavad Gita Viewer: A full-stack project (FE + BE) deployed on Vercel. (Refactoring for improved performance).
 
-📁 Some of my "Learning" Projects
-📖 Bhagavad Gita Viewer: A full-stack project (FE + BE) deployed on Vercel. (Currently under maintenance/refactoring! 🔧)
+Zen Focus Space: A minimalist workspace tool for productivity.
 
-🧮 Basic Calculator: One of my first steps into JS logic.
+Dynamic World Clock: A JavaScript-based clock demonstrating API handling and UI logic.
+
+Basic Calculator: My foundation in JS functional logic.
 
 🚀 What's next?
-🏠 Family First: Currently taking a break since Feb 2024 to raise my kid (born May 2024!). 👶
+Career Growth: I am actively seeking a Frontend Engineering role where I can contribute my analytical skills and learn from a collaborative team.
 
-🛒 Future Founder: I am currently using tools like Google Antigravity to research and build my own e-commerce company.
+Future Founder: I’m passionate about the e-commerce space and am actively using AI and web development to build business-ready solutions.
 
-📈 Learning: Getting comfortable with "Low-Code" tools to turn business ideas into reality.
+Life: Currently balancing life as a dad to my 22-month-old! 👶
